@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#Author: Suraj
+#Descriptions: addition script
+
+echo"enter a number1"
+
+read a
+
+echo"enter a number2"
+
+read b
+
+result-$((a+b))
+echo $result
